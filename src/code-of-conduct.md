@@ -7,4 +7,4 @@ title: 'Code of Conduct'
 
 Rules for being in this webring.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed fuga quae labore, at adipisci mollitia consequatur possimus sint dolor corrupti unde aperiam iste cumque repudiandae enim, aliquid optio amet, quo quia. Doloribus eius atque quis. Odit, culpa saepe! Perferendis, ratione. Laboriosam ratione quod doloribus perferendis? Minus sit itaque totam eius.
+This is the MuizenMesh Community Webring. Your site must either be hosted by MuizenMesh or be associated with the Communities of Muizenberg, Capricorn & Vrygrond in some way. You may set up ecommerce sites, but no commercial advertising will be allowed on the actual webring. You may thus link your site, but please practice respect and right-livelihood, and respect the rights of other sentient beings. Attempts to spam members or create clickbait will be rejected. 
