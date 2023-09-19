@@ -2,8 +2,8 @@
     "title": "MuizenMesh Webring",
     "description": "MuizenMesh Communities, including Muizenberg, Capricorn, Vrygrond",
     "image": "surfer.jpg",
-    "url": "https://muizenmesh.codeberg.page/webring/@pages/dist/",
-    "repo": "https://codeberg.org/MuizenMesh/webring.git",
+    "url": "https://stupendous-douhua-eba3cc.netlify.app/",
+    "repo": "https://github.com/MuizenMesh/webring.git",
     "admins": [
         {
             "name": "ubuntupunk",
