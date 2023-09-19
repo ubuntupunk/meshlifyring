@@ -21,6 +21,7 @@
     "cssesc": ">=3.0.0",
     "html-minifier": ">=1.0.0",
     "netlify-lambda": ">=1.6.3",
+    "node-sass": "^9.0.0",
     "sass": "^1.67.0",
     "sass-loader": "^13.3.2"
   }
