@@ -33,6 +33,7 @@ module.exports = function (config) {
         return content
     })
 
+    config.addPassthroughCopy({ "function": ".netlify/function" });
     config.addPassthroughCopy('src/assets/images')
 
     return {
