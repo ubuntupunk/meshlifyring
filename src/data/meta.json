@@ -3,7 +3,7 @@
     "description": "MuizenMesh Communities, including Muizenberg, Capricorn, Vrygrond",
     "image": "surfer.jpg",
     "url": "https://stupendous-douhua-eba3cc.netlify.app/",
-    "repo": "https://github.com/MuizenMesh/webring.git",
+    "repo": "https://github.com/MuizenMesh/webring",
     "admins": [
         {
             "name": "ubuntupunk",
