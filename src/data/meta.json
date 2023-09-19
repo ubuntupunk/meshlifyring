@@ -3,11 +3,11 @@
     "description": "MuizenMesh Communities, including Muizenberg, Capricorn, Vrygrond",
     "image": "freakazoid.jpg",
     "url": "https://muizenmesh.netlify.com",
-    "repo": "https://codeberg.org/muizenmesh.git",
+    "repo": "https://codeberg.org/MuizenMesh/webring.git",
     "admins": [
         {
             "name": "ubuntupunk",
-            "url": "https://github.com/ubuntupunk"
+            "url": "https://codeberg.org/ubuntupunk"
         }
     ]
 }
