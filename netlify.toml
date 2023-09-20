@@ -17,18 +17,18 @@
 
 [[redirects]]
     from = "/next"
-    to = "/netlify/functions/next"
+    to = "./netlify/functions/next"
     status = 301
     force = true
 
 [[redirects]]
     from = "/prev"
-    to = "/netlify/functions/prev"
+    to = "./netlify/functions/prev"
     status = 301
     force = true
 
 [[redirects]]
     from = "/random"
-    to = "/netlify/functions/random"
+    to = "./netlify/functions/random"
     status = 301
     force = true
