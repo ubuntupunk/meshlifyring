@@ -23,6 +23,10 @@
     "netlify-lambda": ">=1.6.3",
     "node-sass": "^9.0.0",
     "sass": "^1.67.0",
-    "sass-loader": "^13.3.2"
+    "sass-loader": "^13.3.2",
+    "sendmail": "^1.6.1"
+  },
+  "devDependencies": {
+    "netlify-cli": "^16.4.0"
   }
 }
