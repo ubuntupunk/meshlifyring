@@ -10,7 +10,7 @@
   },
   "scripts": {
     "start": "ELEVENTY_ENV=development eleventy --serve",
-    "build": "ELEVENTY_ENV=production eleventy && npm run build:lambda",
+    "build": "NODE_OPTIONS=--legacy-openssl ELEVENTY_ENV=production eleventy && npm run build:lambda",
     "serve:lambda": "netlify-lambda serve _lambda",
     "build:lambda": "netlify-lambda build _lambda"
   },

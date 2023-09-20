@@ -11193,7 +11193,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"node-sass@npm:^9.0.0":
+"node-sass@npm:>=9.0.0":
   version: 9.0.0
   resolution: "node-sass@npm:9.0.0"
   dependencies:
@@ -13409,7 +13409,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass-loader@npm:^13.3.2":
+"sass-loader@npm:>=13.3.2":
   version: 13.3.2
   resolution: "sass-loader@npm:13.3.2"
   dependencies:
@@ -13433,7 +13433,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sass@npm:^1.67.0":
+"sass@npm:>=1.67.0":
   version: 1.67.0
   resolution: "sass@npm:1.67.0"
   dependencies:
@@ -13573,7 +13573,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"sendmail@npm:^1.6.1":
+"sendmail@npm:>=1.6.1":
   version: 1.6.1
   resolution: "sendmail@npm:1.6.1"
   dependencies:
@@ -15442,10 +15442,10 @@ __metadata:
     html-minifier: "npm:>=1.0.0"
     netlify-cli: "npm:^16.4.0"
     netlify-lambda: "npm:>=1.6.3"
-    node-sass: "npm:^9.0.0"
-    sass: "npm:^1.67.0"
-    sass-loader: "npm:^13.3.2"
-    sendmail: "npm:^1.6.1"
+    node-sass: "npm:>=9.0.0"
+    sass: "npm:>=1.67.0"
+    sass-loader: "npm:>=13.3.2"
+    sendmail: "npm:>=1.6.1"
   languageName: unknown
   linkType: soft
 
