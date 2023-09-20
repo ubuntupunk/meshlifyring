@@ -1,4 +1,4 @@
-import { redirect, getNext, getRandom } from 'utils'
+import { redirect, getNext, getRandom } from './utils'
 
 exports.handler = function(event, context, callback) {
     const { referer } = event.headers
