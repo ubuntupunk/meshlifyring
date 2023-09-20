@@ -23,5 +23,10 @@
 	"title": "Muizenberg Electricity Crisis Committee Blogsite",
 	"url": "https://muizenmesh.co.za/wp/web/mecc/",
 	"feed": "https://muizenmesh.co.za/wp/web/mecc/feed.xml"
-   }
+   },
+   {
+	"title": "Netbones Solutions",
+       	"url": "https://netbones.co.za",
+	"feed": "#"	
+   {
 ]
