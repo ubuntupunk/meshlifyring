@@ -5,7 +5,7 @@
   NODE_OPTIONS = "--openssl-legacy-provider"
 
 [functions]
-  directory = "netlify/functions"  # The directory where your Netlify functions are located
+  directory = "_lambda"  # The directory where your Netlify functions are located
 
 [[headers]]
     for = "/*"
