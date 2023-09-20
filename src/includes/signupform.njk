@@ -1,6 +1,13 @@
-<form class="form" name="signup" method="POST" data-netlify="true">
-    <p class="form__field">
-        <label for="input-name" class="form__label">Site Name:</label>
+<form 
+name="signup"
+class="form"
+method="POST"
+data-netlify-recaptcha="true"
+data-netlify="true"
+>
+   
+<p class="form__field">
+ <label for="input-name" class="form__label">Site Name:</label>
         <input type="text" name="name" id="input-name" class="form__input" placeholder="Dav's awesome site" required />
     </p>
     <p class="form__field">
@@ -16,6 +23,8 @@
         <input type="text" name="bot" id="input-bot" />
     </div>
     <div class="u-align-right">
+<div data-netlify-recaptcha="true"></div>
+  <p>
         <button type="submit" class="btn btn--primary">Please Add Me!</button>
     </div>
 </form>
