@@ -12,22 +12,27 @@
     "start": "ELEVENTY_ENV=development eleventy --serve",
     "build": "ELEVENTY_ENV=production eleventy && npm run build:lambda",
     "serve:lambda": "netlify-lambda serve _lambda",
-    "build:lambda": "netlify-lambda build _lambda"
+    "build:lambda": "netlify-lambda build _lambda",
+    "resolve-dependencies": "yarn upgrade --latest"
   },
   "dependencies": {
     "@11ty/eleventy": ">=0.11.0",
     "@11ty/eleventy-plugin-syntaxhighlight": ">=3.0.1",
+    "@types/node": "^20.6.3",
     "clean-css": ">=4.2.3",
     "cssesc": ">=3.0.0",
     "html-minifier": ">=1.0.0",
-    "netlify-lambda": ">=1.6.3",
-    "node-sass": "^9.0.0",
-    "sass": "^1.67.0",
-    "sass-loader": "^13.3.2",
-    "sendmail": "^1.6.1"
+    "module": "^1.2.5",
+    "netlify-lambda": ">=2.0.16",
+    "node-sass": ">=9.0.0",
+    "sass": ">=1.67.0",
+    "sass-loader": ">=13.3.2",
+    "sendmail": ">=1.6.1",
+    "webpack": ">=5.88.2"
   },
   "devDependencies": {
-    "cross-env": "^7.0.3",
-    "netlify-cli": "^16.4.0"
-  }
+    "cross-env": ">=7.0.3",
+    "netlify-cli": ">=16.4.1"
+  },
+  "packageManager": "yarn@3.6.3"
 }
