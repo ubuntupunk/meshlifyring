@@ -1,4 +1,4 @@
-import members from '../../src/data/members'
+import members from '../src/data/members'
 
 export const redirect = site => {
     const statusMessage = `redirecting to: ${site.url}`
