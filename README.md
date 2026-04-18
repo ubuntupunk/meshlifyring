@@ -1,7 +1,7 @@
 # Webring Starter Kit
 
 [![GitHub](https://img.shields.io/badge/GitHub-ubuntupunk/meshlify--ring-blue)](https://github.com/ubuntupunk/meshlifyring)
-[![License](https://img.shields.io/badge/License-GPL-green.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 <a href="https://github.com/pedromxavier/flag-badges">
     <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/ZA.svg" alt="made in za">
